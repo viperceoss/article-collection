@@ -1,6 +1,7 @@
 # Git 系统学习指南
 
 这是一份完整的 Git 系统学习教程，包含 7 个章节，从基础原理到高级技巧。
+url:https://github.com/xrdy511623/go-notes/tree/main/productivetools/git
 
 ## 章节目录
 
